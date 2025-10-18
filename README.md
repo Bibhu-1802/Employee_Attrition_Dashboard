@@ -89,7 +89,9 @@ Impact of Salary, Tenure, and Age
 KPI Cards for HR Decision Support
 
 📸 Dashboard Preview
-(images/Screenshot 2025-10-19 011630.png)
+![Employee Attrition Dashboard](<img width="1207" height="684" alt="Screenshot 2025-10-19 011630" src="https://github.com/user-attachments/assets/b185eb1d-3a0e-4ebd-9d06-1064750f4635" />
+.png)
+
 
 
 
@@ -120,5 +122,6 @@ Power BI Developer | Data Analyst Enthusiast
 
 
 This project is open source under the MIT License.
+
 
 
