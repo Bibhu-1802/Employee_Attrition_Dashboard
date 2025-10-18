@@ -89,6 +89,7 @@ Impact of Salary, Tenure, and Age
 KPI Cards for HR Decision Support
 
 📸 Dashboard Preview
+(images/Screenshot 2025-10-19 011630.png)
 
 
 
@@ -97,10 +98,6 @@ KPI Cards for HR Decision Support
 
 
 👨‍💼 Author
-
-
-
-
 
 Bibhu Data
 
@@ -123,4 +120,5 @@ Power BI Developer | Data Analyst Enthusiast
 
 
 This project is open source under the MIT License.
+
 
